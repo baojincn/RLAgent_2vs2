@@ -35,6 +35,12 @@ The project demonstrated a classic RL Arms Race:
 2. Mid Stage: SAC suffered from "Defensive Collapse" where it only learned to hide.
 3. Late Stage: After implementing Radar and Hit Rewards, SAC achieved a "Breakthrough," mastering continuous-space maneuvers to challenge the PPO "Aim Gods," eventually resulting in a stable Nash Equilibrium with both agents above 2000 Elo.
 
+## Training Curves
+The following charts illustrate the training progress and the successful "Arms Race" between the 3 models over several days of continuous training:
+
+![TensorBoard 1](Gif/tensor_board_1.png)
+![TensorBoard 2](Gif/tensor_board_2.png)
+
 ## How to Run
 1. Open the Unity project and load the 2vs2 competitive scene.
 2. Ensure Behavior Parameters Space Size is set to 18.
