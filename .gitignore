@@ -1,0 +1,47 @@
+# Unity ignore patterns
+Library/
+library/
+Temp/
+temp/
+Obj/
+obj/
+Build/
+build/
+Builds/
+builds/
+Logs/
+logs/
+MemoryCaptures/
+memorycaptures/
+UserSettings/
+usersettings/
+
+# IDE ignore patterns
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.db
+sysinfo.txt
+
+# Crashlytics
+crashlytics-build.properties
+
+# ML-Agents
+results/
+
+# OS ignore patterns
+.DS_Store
+Thumbs.db
