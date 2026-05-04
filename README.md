@@ -1,18 +1,16 @@
 # Snowball Fight 2vs2: Hybrid Agent Competitive Training
 
+This project implements a high-intensity 2vs2 competitive training environment in Unity using ML-Agents. It features a unique Hybrid Action Space where two distinct reinforcement learning algorithms compete against each other in a tactical snowball fight.
+
 team_ppo vs team_ppo
 ![Showcase](Gif/2vs2.gif)
 
 team_ppo vs team_sac
 ![Showcase](Gif/ppo_vs_sac.gif)
 
-team_ppo vs team_ppo
-![Showcase](Gif/ppo_vs_ppo.gif)
-
 team_sac vs team_sac
 ![Showcase](Gif/sac_vs_sac.gif)
 
-This project implements a high-intensity 2vs2 competitive training environment in Unity using ML-Agents. It features a unique Hybrid Action Space where two distinct reinforcement learning algorithms compete against each other in a tactical snowball fight.
 
 
 ## Final Results
