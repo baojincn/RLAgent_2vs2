@@ -34,7 +34,7 @@ To overcome early training stagnation and "Learned Helplessness" in the continuo
 ## Environment Specs
 - Teams: 2 vs 2.
 - Health System: 2 HP per agent (2 hits to eliminate).
-- Map: 12x12 arena with 6 tilted cube shelters providing tactical cover.
+- Map: Arena consisting of a 3x2 grid of floor tiles with 6 strategic cube shelters providing tactical cover.
 - Winning Condition: Full elimination of the opposing team.
 
 ## Training Insights
